@@ -1,5 +1,12 @@
-# deneme
+# Pembe Hesap Makinesi
 
-Bu depo, uygulama kodu veya paket yapılandırması içermeyen bir dokümantasyon
-projesidir. Geliştirme ve belge değişiklikleri için [proje kurallarını](PROJE_KURALLARI.md)
-izleyin.
+Bağımlılık gerektirmeyen, mobil uyumlu bir web hesap makinesi. Dört işlem,
+ondalık sayılar, temizleme ve klavye kullanımı desteklenir. Arayüz ve hata
+mesajları Türkçedir.
+
+## Kullanım
+
+`index.html` dosyasını bir tarayıcıda açın. Rakam, `+`, `-`, `*`, `/`,
+ondalık ayırıcı, `Enter` ve `Escape` tuşları da kullanılabilir.
+
+Proje kuralları için [PROJE_KURALLARI.md](PROJE_KURALLARI.md) dosyasına bakın.
