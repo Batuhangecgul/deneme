@@ -13,3 +13,13 @@ geliştirme ve dokümantasyon çalışmalarında uygulanır.
 8. **Gizli bilgileri koru:** Parola, erişim anahtarı ve kişisel verileri kaynak dosyalara, belgelere veya günlük kayıtlarına ekleme.
 9. **Gereksiz bağımlılıklardan kaçın:** Yeni bir bağımlılık eklemeden önce mevcut araçların ihtiyacı karşılayıp karşılamadığını değerlendir.
 10. **Değişiklikleri doğrula:** Tamamlanan işi gereksinimlerle karşılaştır; belge değişikliklerinde içerik ve biçimi, davranış değişikliklerinde ilgili işleyişi kontrol et.
+11. **Belge dilini koru:** Projedeki açıklamaları Türkçe yaz; teknik terimlerde anlamı bozmayacak yerleşik karşılıkları kullan.
+12. **Başlık hiyerarşisini izle:** README.md ve diğer belgelerde başlık seviyelerini atlamadan, içeriğin önem sırasına göre kullan.
+13. **README.md'yi giriş noktası tut:** Projeyi ilk kez inceleyen kişinin ihtiyaç duyacağı kapsam ve kural bağlantısını README.md içinde görünür kıl.
+14. **Kuralları tek yerde güncelle:** Proje kurallarını kopyalamak yerine PROJE_KURALLARI.md dosyasına bağlan; aynı kuralı farklı belgelerde tekrarlama.
+15. **Bağlantıları göreli yaz:** Depo içindeki belge bağlantılarında dışa bağımlılığı azaltmak için göreli dosya yollarını tercih et.
+16. **Bağlantı hedeflerini kontrol et:** Yeni veya değiştirilen her iç bağlantının mevcut bir dosyaya ya da geçerli bir bölüm başlığına yöneldiğini doğrula.
+17. **Kod yokluğunu gözet:** Uygulama kodu ve paket yapılandırması bulunmadığı sürece kurulum, çalıştırma veya bağımlılık talimatları uydurma.
+18. **Örnekleri gerçekçi tut:** Belgelere eklenen komut, dosya adı ve proje açıklamaları bu deponun mevcut yapısıyla uyumlu olsun.
+19. **Kapsamı açıkça belirt:** Yeni belge eklerken hedef okuyucuyu ve belgenin hangi proje çalışmaları için geçerli olduğunu tanımla.
+20. **Biçimsel sadeliği koru:** Belgelerde gereksiz süsleme, tekrar ve boş bölüm kullanma; kısa paragraflar ve listelerle okunabilirliği artır.
