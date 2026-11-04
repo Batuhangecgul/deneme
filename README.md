@@ -10,3 +10,8 @@ mesajları Türkçedir.
 ondalık ayırıcı, `Enter` ve `Escape` tuşları da kullanılabilir.
 
 Proje kuralları için [PROJE_KURALLARI.md](PROJE_KURALLARI.md) dosyasına bakın.
+
+## Öneri
+
+Pembe arayüz korunarak renk kontrastı ve klavye erişilebilirliği geliştirilmeli;
+ayrıca mobil kullanım için dokunma alanları ve yazı boyutları iyileştirilmelidir.
